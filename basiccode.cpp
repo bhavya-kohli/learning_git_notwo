@@ -11,10 +11,10 @@ int main()
     int x=v[0];
     for(int i=0;i<100;i++)
     {
-        if(v[i]>x)
+        if(v[i]<x)
         {
             x=v[i];
         }
     }
-    cout<<"Largest element is: "<<x;
+    cout<<"smallest element is: "<<x;
 }
