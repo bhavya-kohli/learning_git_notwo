@@ -88,7 +88,7 @@ void check2()
 		{
 			cout<<temp<<endl;
 		}
-		if(type == 2)
+		if(type == 20)
 		{
 			int l,b,h;
 			cin>>l>>b>>h;
